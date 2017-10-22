@@ -1,0 +1,5 @@
+lfi_test:
+    resource: "@LfiTestBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
